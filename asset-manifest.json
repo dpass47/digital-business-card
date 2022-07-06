@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-business-card/static/css/main.e6579d34.css",
+    "main.js": "/digital-business-card/static/js/main.4140cceb.js",
+    "static/media/profile-pic.jpg": "/digital-business-card/static/media/profile-pic.32161c9a20638f02b5f6.jpg",
+    "index.html": "/digital-business-card/index.html",
+    "main.e6579d34.css.map": "/digital-business-card/static/css/main.e6579d34.css.map",
+    "main.4140cceb.js.map": "/digital-business-card/static/js/main.4140cceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6579d34.css",
+    "static/js/main.4140cceb.js"
+  ]
+}
